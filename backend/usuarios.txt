@@ -1,0 +1,44 @@
+[
+  {
+    "id": 1,
+    "name": "Judite",
+    "email": "ju@gmail.com",
+    "password": "12",
+    "nivel": "paciente"
+  },
+  {
+    "id": 2,
+    "name": "Renan",
+    "email": "renan@gmail.com",
+    "password": "123",
+    "nivel": "medico"
+  },
+  {
+    "id": 3,
+    "name": "Marcos",
+    "email": "marcos@gmail.com",
+    "password": "124",
+    "nivel": "admin"
+  },
+  {
+    "id": 4,
+    "name": "Gabriele",
+    "email": "gabi@gmail.com",
+    "password": "123456",
+    "nivel": "admin"
+  },
+  {
+    "id": 5,
+    "name": "Joao",
+    "email": "joca@gmail.com.br",
+    "password": "145",
+    "nivel": "paciente"
+  },
+  {
+    "id": 6,
+    "name": "Maria",
+    "email": "maria@gmail.com",
+    "password": "1234",
+    "nivel": "paciente"
+  }
+]

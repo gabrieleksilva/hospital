@@ -1,7 +1,0 @@
-const users = [{
-  id: 1,
-  nome: 'Gabriele',
-  email: 'teste1@gmail.com',
-  password: '123456'
-
-}];

@@ -1,0 +1,16 @@
+[
+  {
+    "name": "gabriele kelly da silva",
+    "cpf": "666",
+    "dataNasc": "2000-09-06",
+    "observacao": "autismo",
+    "exame": "sangue"
+  },
+  {
+    "name": "mario",
+    "cpf": "ada",
+    "dataNasc": "2024-09-06",
+    "observacao": "diabete",
+    "exame": "tomografia"
+  }
+]
